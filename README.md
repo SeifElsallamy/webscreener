@@ -23,5 +23,5 @@ sub.domain2.com
 ### Tutorial Video
 [![Link To Youtube Video](https://img.youtube.com/vi/skcaczH6j5I/0.jpg)](https://www.youtube.com/watch?v=skcaczH6j5I)
 
-###Future
+### Future
 Supporting http. (currently the tool only checks the domains if they are valid in https protocol).
